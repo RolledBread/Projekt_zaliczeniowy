@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ec5d6f9-3cd2-4cfb-bf9b-a0e421982dc3" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/library/BookShelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utility/FileIO.java" afterDir="false" />
+    <list default="true" id="1ec5d6f9-3cd2-4cfb-bf9b-a0e421982dc3" name="Changes" comment="Commit 2 - bookshelf dev">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/books.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/books.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/BookShelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/library/BookShelf.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -114,7 +116,28 @@
       <option name="project" value="LOCAL" />
       <updated>1687601638837</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit 1 - reading from file">
+      <created>1687606328591</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687606328591</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit 2 - bookshelf dev">
+      <created>1687606586947</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687606586947</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit 2 - bookshelf dev">
+      <created>1687606603566</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687606603566</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +153,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Commit 1 - reading from file" />
+    <MESSAGE value="Commit 2 - bookshelf dev" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 2 - bookshelf dev" />
   </component>
 </project>
