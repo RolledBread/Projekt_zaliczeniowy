@@ -5,9 +5,9 @@ import utility.FileIO;
 import java.util.ArrayList;
 /** Book object*/
 public class Book {
-    private String title;
-    private String author;
-    public static ArrayList<Book> listOfBooks = new ArrayList<Book>();
+    String title;
+    String author;
+    public static ArrayList<Book> listOfBooks = new ArrayList<>();
 
     /**create book objects from file using FileIO class*/
     public static void loadBooks(){

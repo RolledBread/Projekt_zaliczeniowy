@@ -18,9 +18,9 @@ public class BookShelf {
 
         return percentFillRatio + "%";
     }
-    /**returns number of books and fill ratio of the shelf*/
-    public String shelfStatus(){
-        return "There are " + allBooks.size() + " books on the shelf.\nFill status: "+ fillRatio();
+    /**Prints number of books and fill ratio of the shelf*/
+    public void shelfStatus(){
+        System.out.println( "There are " + allBooks.size() + " books on the shelf.\nFill status: "+ fillRatio());
     }
     /**Prints the list of all books on the shelf*/
     public void listAllBooks(){

@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ec5d6f9-3cd2-4cfb-bf9b-a0e421982dc3" name="Changes" comment="Commit 2 - bookshelf dev">
+    <list default="true" id="1ec5d6f9-3cd2-4cfb-bf9b-a0e421982dc3" name="Changes" comment="Commit 2 - bo">
+      <change afterPath="$PROJECT_DIR$/src/main/java/utility/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_06_2023_12_13__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_06_2023_12_13__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/library/BookShelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/library/BookShelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/library/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/library/Book.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
